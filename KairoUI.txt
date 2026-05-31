@@ -861,8 +861,8 @@ function Kairo:CreateWindow(config)
    BackgroundImage.BackgroundTransparency = 1
    BackgroundImage.Size = UDim2.new(1, 0, 1, 0)
    BackgroundImage.Position = UDim2.new(0, 0, 0, 0)
-   BackgroundImage.Image = "rbxassetid://72161110110669"
-   BackgroundImage.ImageTransparency = 0.5
+   BackgroundImage.Image = "rbxassetid://132437881069107"
+   BackgroundImage.ImageTransparency = 0.3
    BackgroundImage.ScaleType = Enum.ScaleType.Crop
    BackgroundImage.Parent = Main
 
